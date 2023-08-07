@@ -1,0 +1,29 @@
+{
+    "name": "asyncify-shim",
+    "version": "0.1.0",
+    "description": "Asyncify support for AssemblyScript",
+    "main": "index.js",
+    "author": "Jairus Tanaka",
+    "contributors": [],
+    "license": "MIT",
+    "scripts": {},
+    "devDependencies": {
+        "assemblyscript": "^0.27.8"
+    },
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JairusSW/asyncify-shim.git"
+    },
+    "keywords": [
+        "assemblyscript",
+        "asyncify",
+        "shim",
+        "support"
+    ],
+    "bugs": {
+        "url": "https://github.com/JairusSW/asyncify-shim/issues"
+    },
+    "homepage": "https://github.com/JairusSW/asyncify-shim#readme",
+    "type": "module"
+}
